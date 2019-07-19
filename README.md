@@ -24,7 +24,7 @@ The main problem many people have when trying to switch to a more data-oriented 
 
 It’s my goal to help folks interested in learning some of that background. 
 
-### <center>Content</center>
+### Content
 
 - Knowing the Data (TBD)
 - Hardware Concepts (TBD)
