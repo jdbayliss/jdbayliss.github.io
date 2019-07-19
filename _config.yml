@@ -1,1 +1,4 @@
+# global settings
+title: "jdbayliss Data-Oriented Development Blog"
+description: "A blog that discusses data-oriented development."
 theme: jekyll-theme-slate
