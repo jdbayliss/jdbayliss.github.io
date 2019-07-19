@@ -10,7 +10,7 @@ There are also a lot of related topics having to do with hardware, optimization,
 - [A Data Oriented Approach to Using Component Systems (2018)](https://www.youtube.com/watch?v=p65Yt20pw0g&t=3398s) 
 - [SIMD at Insomniac Games (How We Do the Shuffle) : good description of SOA vs. AOS and how to think about SIMD](http://gdcvault.com/play/1022248/SIMD-at-Insomniac-Games-How)  
 - [Massively Parallel AI for GPGPUs using OpenCL or C++ (2014) : gives a good overview of modern hardware and power usage](http://gdcvault.com/play/1020618/Massively-Parallel-AI-on-GPGPUs) 
-- [Code Clinic: How to Write Code the Compiler can Actually Optimize  (2015) ](http://gdcvault.com/play/1021866/Code-Clinic-2015-How-to)  [2014] (http://gdcvault.com/play/1020472/Code-Clinic-How-to-Write )
+- [Code Clinic: How to Write Code the Compiler can Actually Optimize  (2015)](http://gdcvault.com/play/1021866/Code-Clinic-2015-How-to)  [2014](http://gdcvault.com/play/1020472/Code-Clinic-How-to-Write )
 - [Three Big Lies: Typical Design Failures in Game Programming (2010)](http://gdcvault.com/play/1012200/Three-Big-Lies-Typical-Design )
 2. Data-Oriented Design and Thinking about Data
 - [Typical C++ BS talk](https://macton.smugmug.com/Other/2008-07-15-by-Eye-Fi/n-xmKDH/i-BrHWXdJ)  [code](http://codepad.org/u3yqprPJ)
