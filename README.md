@@ -29,4 +29,4 @@ It’s my goal to help folks interested in learning some of that background.
 - Knowing the Data (TBD)
 - Hardware Concepts (TBD)
 - Tool Concepts (TBD)
-- <a href="https://jdbayliss.github.io/contents/references.md">References for Data-Oriented Design</a>
+- <a href="references.md">References for Data-Oriented Design</a>
