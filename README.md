@@ -29,4 +29,4 @@ It’s my goal to help folks interested in learning some of that background.
 - Knowing the Data (TBD)
 - Hardware Concepts (TBD)
 - Tool Concepts (TBD)
-- [References for Data-Oriented Design] {./contents/references.md)
+- [References for Data-Oriented Design] (./contents/references.md)
