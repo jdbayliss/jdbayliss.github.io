@@ -1,12 +1,12 @@
-## Data-Oriented Design: a Paradigm
+## <center>Data-Oriented Design: a Paradigm</center>
 
 What is data-oriented development? It’s a paradigm for solving problems with computing that highlights the nature of data and how it flows through a computer. Having watched this paradigm developing over the years from the talks given by Mike Acton to information on blogs, designing software in a data-oriented way involves the following features:
 
-1. Know the problem you’re trying to solve
-2. **Know the data and how it flows through your system**
-3. **Know the hardware**
-4. **Know the tools (like language and compiler)**
-5. Validate that you actually do know the above
+- Know the problem you’re trying to solve
+- **Know the data and how it flows through your system**
+- **Know the hardware**
+- **Know the tools (like language and compiler)**
+- Validate that you actually do know the above
 
 If you don’t know something, ask somebody, read the specs, watch a video/stream, experiment, or otherwise figure out what you don’t know
 
@@ -24,7 +24,7 @@ The main problem many people have when trying to switch to a more data-oriented 
 
 It’s my goal to help folks interested in learning some of that background. 
 
-#Content
+### <center>Content</center>
 
 - Knowing the Data (TBD)
 - Hardware Concepts (TBD)
