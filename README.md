@@ -10,7 +10,7 @@ What is data-oriented development? It’s a paradigm for solving problems with c
 
 If you don’t know something, ask somebody, read the specs, watch a video/stream, experiment, or otherwise figure out what you don’t know
 
-The highlighted numbers tend to be the features of data-oriented design that separate it from other design paradigms such as object-oriented design. Engineering software for an explicit hardware range is not normally considered in software paradigms, but greatly impacts how the data flows through the system. Thus, in data-orientation it’s an important consideration. The same can be said for knowledge of the tools for writing software such as compilers and languages.
+The highlighted bullets tend to be the features of data-oriented design that separate it from other design paradigms such as object-oriented design. Engineering software for an explicit hardware range is not normally considered in software paradigms, but greatly impacts how the data flows through the system. Thus, in data-orientation it’s an important consideration. The same can be said for knowledge of the tools for writing software such as compilers and languages.
 
 There are many arguments for learning how to develop in a data-oriented way. The best arguments I’ve heard would be the following:
 
